@@ -4,7 +4,7 @@ This project demonstrates how to build a simple,semantic HTML5 page that priorit
 -Accesibility best practices for screen readers.
 -Basic SEO principles for better search engines discoverability.
 
-#Features
+##Features
 - Semantic HTML5 structure ( <header>,<main>,<section>,<footer>
 -Logical heading hierarchy (<h1>  <h2>  ,<h3>)
 -Accesibility attributes ('lang, 'aria-label' )
